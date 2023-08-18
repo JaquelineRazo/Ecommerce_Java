@@ -1,19 +1,19 @@
 # Ecommerce_Java
 ## Descripción:
-El proyecto RBN Commerce se centra en la comercialización de productos agrícolas a nivel internacional a través de una plataforma de comercio electrónico. La empresa RBN busca aumentar su presencia en línea para atraer y captar una mayor cantidad de clientes. La solución propuesta implica el diseño, desarrollo y lanzamiento de una aplicación web basada en una arquitectura Azure, que permitirá a los usuarios explorar y comprar productos agrícolas de manera conveniente y eficiente.
+El proyecto RBN Commerce se centra en la comercialización de productos agrícolas a nivel internacional a través de una plataforma de comercio electrónico. La empresa busca aumentar su presencia en línea para atraer y captar una mayor cantidad de clientes. La solución propuesta implica el diseño, desarrollo y lanzamiento de una aplicación web basada en una arquitectura Azure, que permitirá a los usuarios explorar y comprar productos agrícolas de manera conveniente y eficiente.
 
 ## Problema Identificado:
-La empresa RBN enfrenta desafíos para expandir su alcance y captar clientes internacionales de manera efectiva debido a la falta de presencia en línea. Se requiere una plataforma de comercio electrónico que brinde a los usuarios la posibilidad de explorar, buscar y comprar productos agrícolas de manera sencilla y segura.
+RBN enfrenta desafíos para expandir su alcance y captar clientes internacionales de manera efectiva debido a la falta de presencia en línea. Se requiere una plataforma de comercio electrónico que brinde a los usuarios la posibilidad de explorar, buscar y comprar productos agrícolas de manera sencilla y segura.
 
 ## Solución Propuesta:
-Se desarrollará una aplicación web de comercio electrónico que permitirá a los usuarios acceder al catálogo de productos agrícolas de RBN, buscar información detallada de los productos, realizar pedidos y realizar pagos de manera eficiente. La arquitectura Azure respaldará la infraestructura tecnológica subyacente para garantizar el rendimiento, la escalabilidad y la seguridad del sistema.
+Se desarrollará una aplicación web de comercio electrónico que permitirá a los usuarios acceder al portafolio de productos, buscar información detallada de los mismos, realizar pedidos y realizar pagos de manera eficiente. La arquitectura Azure respaldará la infraestructura tecnológica subyacente para garantizar el rendimiento, la escalabilidad y la seguridad del sistema.
 
 ## Arquitectura:
 La arquitectura de la aplicación se basará en servicios de Azure, incluyendo Content Delivery Network para recursos estáticos, Azure SQL Database para almacenar datos de productos, Blob Storage para imágenes de productos, Azure Cache for Redis para mejorar el rendimiento y Azure Functions para procesar pagos y registrar transacciones en la base de datos.
 
 ## Requerimientos del Sistema:
 
-Para implementar el comercio electrónico de RBN, se utilizarán diversas tecnologías y herramientas que son fundamentales para el desarrollo y funcionamiento de la aplicación. A continuación, se detallan los requisitos necesarios para configurar el entorno de desarrollo y ejecutar la solución con éxito:
+A continuación, se detallan los requisitos necesarios para configurar el entorno de desarrollo y ejecutar la solución con éxito:
 
 - **Tecnologías Básicas:**
   - Java JDK 17: El desarrollo de la aplicación se basará en Java como lenguaje principal. Se requiere JDK 17 para aprovechar las últimas características y mejoras del lenguaje.
@@ -38,7 +38,7 @@ Para implementar el comercio electrónico de RBN, se utilizarán diversas tecnol
 
 ## Instalación:
 
-A continuación, se detallan los pasos específicos para configurar el entorno de desarrollo y ejecutar la solución de comercio electrónico de RBN. Estos pasos garantizarán que pueda trabajar de manera efectiva en el proyecto y realizar pruebas de manera local.
+A continuación, se detallan los pasos específicos para configurar el entorno de desarrollo y ejecutar la solución: 
 
 **1. Configuración del Entorno:**
    - Instale Java JDK 17: Descargue e instale el Java Development Kit (JDK) 17 en su sistema. Puede obtenerlo desde el sitio oficial de Oracle o desde distribuciones como OpenJDK.
@@ -68,7 +68,7 @@ A continuación, se detallan los pasos específicos para configurar el entorno d
 
 ## Configuración:
 
-La configuración adecuada del proyecto es esencial para garantizar el correcto funcionamiento de la aplicación de comercio electrónico de RBN. A continuación, se detallan los aspectos clave que debe tener en cuenta al configurar y personalizar la aplicación según sus necesidades específicas:
+A continuación, se detallan los aspectos clave que debe tener en cuenta al configurar y personalizar la aplicación según sus necesidades específicas:
 
 **1. Configuración del Producto:**
    - Archivos de Configuración: Explore y comprenda los archivos de configuración del proyecto, como `application.properties` o `application.yml`, que se encuentran en la carpeta de recursos.
@@ -103,7 +103,7 @@ La configuración adecuada del proyecto es esencial para garantizar el correcto 
 
 ## Uso:
 
-La aplicación de comercio electrónico de RBN está diseñada para brindar a los usuarios una experiencia fluida al explorar productos agrícolas, realizar pedidos y administrar su perfil. A continuación, se detallan las principales funcionalidades y cómo los usuarios finales y administradores pueden aprovechar al máximo la aplicación:
+A continuación, se detallan las principales funcionalidades y cómo los usuarios finales y administradores pueden aprovechar al máximo la aplicación:
 
 **Usuario Final:**
 
@@ -152,7 +152,7 @@ La aplicación de comercio electrónico de RBN está diseñada para brindar a lo
 
 ## Contribución:
 
-¡Agradecemos su interés en contribuir al desarrollo y mejora continua de la aplicación de comercio electrónico de RBN! Su participación es fundamental para hacer que la plataforma sea aún más robusta y efectiva. A continuación, se presentan los pasos específicos que debe seguir para contribuir al proyecto de manera efectiva:
+¡Agradecemos su interés en contribuir al desarrollo y mejora continua de la aplicación! Su participación es fundamental para hacer que la plataforma sea aún más robusta y efectiva. A continuación, se presentan los pasos específicos que debe seguir para contribuir al proyecto de manera efectiva:
 
 **1. Clonar el Repositorio:**
    - Haga un Fork del Repositorio: En la página del repositorio en GitHub, haga clic en el botón "Fork" en la esquina superior derecha para crear una copia del repositorio en su cuenta de GitHub.
@@ -190,11 +190,9 @@ La aplicación de comercio electrónico de RBN está diseñada para brindar a lo
 **9. Código de Conducta:**
    - Adhiera al Código de Conducta: Al contribuir, siga el código de conducta del proyecto y asegúrese de que todas las interacciones sean respetuosas y colaborativas.
 
-Su contribución es valiosa y ayuda a mejorar la calidad y funcionalidad de la aplicación. ¡Esperamos con ansias sus aportes!
-
 ## Roadmap:
 
-El desarrollo de la aplicación de comercio electrónico de RBN se planifica en dos etapas claramente definidas: la etapa BETA y la etapa de GENERAL AVAILABILITY. Estas etapas abarcan una serie de mejoras y características que se implementarán para proporcionar una experiencia excepcional a los usuarios y garantizar la funcionalidad sólida de la plataforma.
+El desarrollo de la aplicación se planifica en dos etapas claramente definidas: la etapa BETA y la etapa de GENERAL AVAILABILITY. Estas etapas abarcan una serie de mejoras y características que se implementarán para proporcionar una experiencia excepcional a los usuarios y garantizar la funcionalidad sólida de la plataforma.
 
 **Etapa BETA:**
 
@@ -224,4 +222,4 @@ La etapa de GENERAL AVAILABILITY se centra en pulir y perfeccionar aún más la 
 - Pruebas de Rendimiento: Se llevarán a cabo pruebas de carga y rendimiento para asegurarse de que la aplicación sea capaz de manejar una carga de usuarios más amplia.
 - Preparación para el Lanzamiento: Se completarán los últimos detalles y preparativos para el lanzamiento, incluyendo pruebas exhaustivas y configuraciones finales.
 
-Al finalizar la etapa de GENERAL AVAILABILITY, la aplicación de comercio electrónico de RBN estará lista para ser lanzada al público en general, brindando una plataforma sólida y completa para que los usuarios exploren, compren y gestionen productos agrícolas de manera eficiente y segura.
+Al finalizar la etapa de GENERAL AVAILABILITY, la aplicación estará lista para ser lanzada al público en general.
